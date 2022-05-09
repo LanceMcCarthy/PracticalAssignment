@@ -30,9 +30,9 @@ Here are the general guidelines for the assignment:
 
 * You have carte blanche over the project’s vision and direction; this is intended for you to be able to use the platform features to show of your skills.
 * Choose your preferred option to build the application
-    * Use Telerik UI for Blazor (best option, uses ASP.NET Core and .NET 5/.NET 6)
-    * Use Telerik UI for ASP.NET AJAX (aka 'webforms', uses .NET Framework)
-* Implement Telerik Reporting and the HTML5 ReportViewer in some fashion. This will demonstrate:
+    * Use **Telerik UI for Blazor** (best option, uses ASP.NET Core and .NET 5/.NET 6)
+    * Use **Telerik UI for ASP.NET AJAX** (aka 'webforms', uses .NET Framework)
+* Implement **Telerik Reporting** and the HTML5 ReportViewer in some fashion. This will demonstrate:
     * Your ability to use a SQL data source to render information in the Report
     * Use a pre-existing REST API, the Reporting REST API is just added to a project, it handles requests for you (details in documentation links below).
 * Bonus points for being creative, thinking outside the box with product features
