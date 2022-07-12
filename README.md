@@ -48,13 +48,14 @@ Here are the resources you’ll need to help implement the assignment.
 * [Telerik UI for ASP.NET AJAX docs](https://docs.telerik.com/devtools/aspnet-ajax/introduction)
     * [Getting Started](https://docs.telerik.com/devtools/aspnet-ajax/getting-started/first-steps-msi) (using MSI installer)
 * [Telerik Reporting docs](https://docs.telerik.com/reporting/overview)
-    * [Getting started](https://docs.telerik.com/reporting/getting-started/first-steps) - First Steps (Pro-tip: follow this first, it walks you through everything you need to know).
-    * [Getting started](https://docs.telerik.com/reporting/designing-reports/overview) - Designing Reports
-    * [How to display Reports in an application](https://docs.telerik.com/reporting/using-reports-in-applications/overview)
+    * [Video Onboarding](https://docs.telerik.com/reporting/embedding-reports/display-reports-in-applications/web-application/blazor-report-viewer/overview) course - This is only 2 hours and shows you a lot of good getting started information.
+    * [Desiging Reports Guide](https://docs.telerik.com/reporting/getting-started/first-steps-designing) - This quick tutorial is to show you some basic info on creating a Report.
+    * [Displaying Reports Guide](https://docs.telerik.com/reporting/getting-started/first-steps-integrating) - This quick tutorial is to create a quick throw-away webapp project to familiarize you with how a Report Viewer is used.
+    * [How to display Reports in an application](https://docs.telerik.com/reporting/using-reports-in-applications/overview) - These docs are for the real deal. After yo've designed your report, now it's time to add a Report Viewer to your app-of-choice and display it at runtime.
         * [In a Blazor project](https://docs.telerik.com/reporting/using-reports-in-applications/display-reports-in-applications/web-application/blazor-report-viewer/overview)
         * [In an AJAX project](https://docs.telerik.com/reporting/using-reports-in-applications/display-reports-in-applications/web-application/html5-asp.net-web-forms-report-viewer/overview)
 
-> Note: you can get a product license for any of the items above by clicking "start trial" on any product's landing page. This will automatically assign a new trial license to your Telerik account for that project.
+> Important Note: you can get a product license for any of the items above by clicking "DOWNLOAD FREE TRIAL" button on any product's Overview page. This will automatically assign a new trial license to your Telerik account; [go here for Telerik Reporting](https://www.telerik.com/products/reporting.aspx), [go here for UI for Blazor](https://www.telerik.com/blazor-ui) and/or [go here for UI for ASP.NET AJAX](https://www.telerik.com/products/aspnet-ajax.aspx).
 
 ### Demos
 
@@ -85,7 +86,4 @@ Finally, here are the general landing pages for support. It contains the informa
 
 ## Direct Assistance
 
-Don't be afraid to ask for assistance with technical issues where self-help information isn't sufficient. Email Kat or Lance with your question(s) and we'll follow up.
-
-
-
+Don't be afraid to ask for assistance with technical issues where self-help information isn't sufficient. Email Kat or Lance with your question(s) and we'll follow up. Being able to ask for help when you need it is a very important quality for an engineer.
