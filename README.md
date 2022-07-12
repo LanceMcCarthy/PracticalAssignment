@@ -7,9 +7,10 @@ Your mission, if you choose to accept, is to build the *running application equi
 ### Instructions
 
 1. Fork this repository into your GitHub account and close your fork locally (the fork button is at the top right)
+    - If you do not have a GitHub account or aren't familiar with git, you can download this repo instead: expand the green "Code" button, then select "Download ZIP"
 2. Complete your assignment (see Assignment Guidelines section below)
 3. Submit the assignment
-    - Option 1. Commit the code to your fork's main branch and email us a link to your fork
+    - Option 1. Commit the code to your fork's main branch and email us a link to your repo
     - Option 2. ZIP up the project(s) and email it to Kat (please delete the **bin** and **obj** folders before zipping)
 
 > If your project needs special instructions for setup and/or use, include those directions in your repo by adding a new file `instructions.md` and explain in there.
